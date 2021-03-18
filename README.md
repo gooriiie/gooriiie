@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> I major in computer science engineering. 
 I'm studying Python these days.
+I am familiar with Java.
