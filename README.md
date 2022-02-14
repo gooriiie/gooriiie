@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-🔭 I’m currently working on No-Title.  
+- 🔭 I’m currently working on No-Title.  
 🌱 I’m currently learning Application Development with Android Studio.  
   
 ## ✔ Blog  
