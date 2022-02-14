@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on No-Title. 
 --> 
 
-- 🔭 I’m currently working on No-Title.  
+ 
 🌱 I’m currently learning Application Development with Android Studio.  
   
 ## ✔ Blog  
