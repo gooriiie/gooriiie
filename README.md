@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 <!--
 **gooriiie/gooriiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --> 
 
  
-🌱 I’m currently learning SpringBoot, Flask and Django.  
+🌱 I’m currently learning Graph Neural Network with Pytorch.  
   
 ## ✔ Blog  
 <a href="https://gooriiie.github.io/" target="_blank"><img src="https://img.shields.io/badge/[Hooni Coding]-[222222]?style=flat-square&logo=[GitHub Pages]&logoColor=white"/></a>  
